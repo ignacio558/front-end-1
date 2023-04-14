@@ -7,11 +7,15 @@
     <title>Document</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
     <script src="<script src=https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script></script>
-
 </head>
+<!--cambiar el logo -->
+<!--colocarlo como acordeon para el catalgo -->
+<!--cambiar el logo -->
+<title> anime center </title>
+<body class="title">
 
-<body class=" ">
     <header class="p-3 text-bg-dark">
+        <div> anime  </div>
         <div class="container">
           <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
             <a href="/" class="d-flex align-items-center mb-2 mb-lg-0 text-white text-decoration-none">
@@ -19,7 +23,7 @@
             </a>
     
             <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
-              <li><a href="#" class="nav-link px-2 text-secondary">Home</a></li>
+              <li><a href="#" class="nav-link px-2 text-secondary">inicio </a></li>
               <li><a href="#" class="nav-link px-2 text-white">Features</a></li>
               <li><a href="#" class="nav-link px-2 text-white">Pricing</a></li>
               <li><a href="#" class="nav-link px-2 text-white">FAQs</a></li>
@@ -31,8 +35,8 @@
             </form>
     
             <div class="text-end">
-              <button type="button" class="btn btn-outline-light me-2">Login</button>
-              <button type="button" class="btn btn-warning">Sign-up</button>
+              <button type="button" class="btn btn-outline-light me-2">iniciar sesion</button>
+              <button type="button" class="btn btn-warning">registrar</button>
             </div>
           </div>
         </div>
@@ -41,12 +45,12 @@
     <main class="container-xl">
 
         <div class="row gy-3" >
-            <div class="col"><div class="card" style="width: 18rem;">
-                <img src="..." class="card-img-top" alt="...">
+            <div class="col-x"><div class="card" style="width: 18rem;">
+                <img src="one piece.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                  <h5 class="card-title">Card title</h5>
-                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                  <h5 class="card-title">one piece</h5>
+                  <p class="card-text">Tras una desastrosa derrota en el Mundial 2018, la selección de Japón lucha por recuperarse. ¿Pero qué le falta? Un delantero absoluto, que pueda guiarles hacia la victoria. La Asociación de Fútbol de Japón está empeñada en crear un delantero con hambre de gol y sed de victoria, que pueda ser el instrumento decisivo para dar la vuelta a un partido perdido… y para ello ha reunido a 300 de los mejores y más brillantes jugadores juveniles de Japón, encerrándolos en un centro conocido como “Blue Lock”. ¿Quién se convertirá en el líder del equipo? ¿Será capaz de superar a todos los que se interpongan en su camino?</p>
+                  <a href="#" class="btn btn-primary">Watch</a>
                 </div>
               </div>
                 
@@ -56,24 +60,64 @@
             </div>
             
 
+            <div class="row gy-3" >
+                <div class="col-x"><div class="card" style="width: 18rem;">
+                    <img src="bluelock.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">blue lock</h5>
+                      <p class="card-text">Tras una desastrosa derrota en el Mundial 2018, la selección de Japón lucha por recuperarse. ¿Pero qué le falta? Un delantero absoluto, que pueda guiarles hacia la victoria. La Asociación de Fútbol de Japón está empeñada en crear un delantero con hambre de gol y sed de victoria, que pueda ser el instrumento decisivo para dar la vuelta a un partido perdido… y para ello ha reunido a 300 de los mejores y más brillantes jugadores juveniles de Japón, encerrándolos en un centro conocido como “Blue Lock”. ¿Quién se convertirá en el líder del equipo? ¿Será capaz de superar a todos los que se interpongan en su camino?.</p>
+                      <a href="#" class="btn btn-primary">Watch</a>
+                    </div>
+                  </div>
+                    
+    
+                    
+    
+                </div>
 
-        </div>  
-        <main class="container-xl">
 
-            <div class="row" >
-                <div class="col">
-                    <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
+                <div class="row gy-3" >
+                    <div class="col-x"><div class="card" style="width: 18rem;">
+                        <img src="hells.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Card title</h5>
                           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                          <a href="#" class="btn btn-primary">Go somewhere</a>
+                          <a href="#" class="btn btn-primary">Watch</a>
                         </div>
                       </div>
-                    
+                        
+        
+                        
+        
+                    </div>
+        </div>  
+<main class="container-xl">
+
+    <div class="row" >
+        <div class="col">
+            <div class="card" style="width: 18rem;">
+                <img src="vinland.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">vinland saga</h5>
+                    <p class="card-text">Thorfinn es el hijo de uno de los mejores guerreros vikingos, pero cuando su padre es asesinado en batalla por un líder mercenario llamado Askeladd, éste jura venganza. Thorfinn se une en secreto al grupo de Askeladd en orden de retarle en duelo, pero acaba en medio de la guerra por la corona de Inglaterra.</p>
+                    <a href="#" class="btn btn-primary">Watch</a>
+                    </div>
+                 </div>
+                </div>
+                
     
-                    
     
+            </div>
+    <div class="row" >
+        <div class="col">
+            <div class="card" style="width: 18rem;">
+                <img src="vinland.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title"></h5>
+                    <p class="card-text">Thorfinn es el hijo de uno de los mejores guerreros vikingos, pero cuando su padre es asesinado en batalla por un líder mercenario llamado Askeladd, éste jura venganza. Thorfinn se une en secreto al grupo de Askeladd en orden de retarle en duelo, pero acaba en medio de la guerra por la corona de Inglaterra.</p>
+                    <a href="#" class="btn btn-primary">Watch</a>
+                    </div>
+                 </div>
                 </div>
                 
     
@@ -81,7 +125,9 @@
             </div>
 
     </main>
-    <footer> </footer>
+    <footer>
+        
+    </footer>
     
 </body>
 </html>
